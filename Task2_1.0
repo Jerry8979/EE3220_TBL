@@ -1,0 +1,5 @@
+int return_value;
+return_value = user_data_set_bank(0);
+if (return_value != 0){
+
+}
